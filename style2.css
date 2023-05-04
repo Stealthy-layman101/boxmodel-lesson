@@ -1,0 +1,13 @@
+.box{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    border-radius: 250px; 
+    margin: 2rem;
+}
+
+.container2{
+   /*  outline: 5px solid purple; */
+    border: 5px double black;
+    /* outline-offset: -10px;  */ 
+}
